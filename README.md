@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring new technologies
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sanjaykumar13504500@gmail.com
+- 📫 Reach me @  sanjaykumar13504500@gmail.com
 
 <!---
 sanjay-kumar1/sanjay-kumar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
