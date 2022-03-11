@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjay-kumar1
 - 👀 I’m interested in exploring new technologies
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me @  sanjaykumar13504500@gmail.com
 
